@@ -1,0 +1,6 @@
+﻿  Arr_list_ds.cpp
+  Source.cpp
+  Task_data.cpp
+  Generating Code...
+E:\source\repos\data structure\data structure\Arr_list_ds.cpp(120): warning C4717: 'Arr_list_ds::registeration': recursive on all control paths, function will cause runtime stack overflow
+  data structure.vcxproj -> E:\source\repos\data structure\x64\Debug\data structure.exe
